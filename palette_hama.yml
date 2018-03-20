@@ -1,0 +1,153 @@
+'#fbfdfd':
+  hama_code: 1
+  name: Blanco
+'#fcf2c2':
+  hama_code: 2
+  name: Crema
+'#ffd14a':
+  hama_code: 3
+  name: Amarillo
+'#ef6e27':
+  hama_code: 4
+  name: Naranja
+'#c92b33':
+  hama_code: 5
+  name: Rojo
+'#f38b9c':
+  hama_code: 6
+  name: Rosa
+'#5c4995':
+  hama_code: 7
+  name: Violeta
+'#0357a0':
+  hama_code: 8
+  name: Azul
+'#0075bd':
+  hama_code: 9
+  name: Azul Claro
+'#037c46':
+  hama_code: 10
+  name: Verde
+'#4dbd8d':
+  hama_code: 11
+  name: Verde Claro
+'#4a2e27':
+  hama_code: 12
+  name: Marron
+'#edcd59':
+  hama_code: 14
+  name: Amarillo Traslucido
+'#0095d9':
+  hama_code: 15
+  name: Azul Translucido
+'#1ab17b':
+  hama_code: 16
+  name: Verde Traslucido
+'#8a9498':
+  hama_code: 17
+  name: Gris
+'#030000':
+  hama_code: 18
+  name: Negro
+'#c9d9e2':
+  hama_code: 19
+  name: Translucido
+'#9d503a':
+  hama_code: 20
+  name: Marron rojizo
+'#c26e39':
+  hama_code: 21
+  name: Marron claro
+'#a8202b':
+  hama_code: 22
+  name: Rojo Oscuro
+'#444784':
+  hama_code: 24
+  name: Violeta Traslucido
+'#e6a693':
+  hama_code: 26
+  name: Carne
+'#e6b47e':
+  hama_code: 27
+  name: Beige
+'#273c2a':
+  hama_code: 28
+  name: Verde Oscuro
+'#c51f3a':
+  hama_code: 29
+  name: Rojo granate
+'#4b252e':
+  hama_code: 30
+  name: Caoba
+'#75b8ce':
+  hama_code: 31
+  name: Turquesa
+'#d62e75':
+  hama_code: 32
+  name: Fucsia
+'#e8223d':
+  hama_code: 33
+  name: Cereza fluorescente
+'#dfda49':
+  hama_code: 34
+  name: Amarillo Neon
+'#d42d29':
+  hama_code: 35
+  name: Rojo Neon
+'#008ccb':
+  hama_code: 36
+  name: Azul Neon
+'#51b356':
+  hama_code: 37
+  name: Verde Neon
+'#ef7022':
+  hama_code: 38
+  name: Naranja Neon
+'#ecea6c':
+  hama_code: 43
+  name: Amarillo Pastel
+'#f1695f':
+  hama_code: 44
+  name: Rojo pastel
+'#9782b5':
+  hama_code: 45
+  name: Violeta Pastel
+'#17b5e9':
+  hama_code: 46
+  name: Azul Pastel
+'#91cc7d':
+  hama_code: 47
+  name: Verde Pastel
+'#e588b8':
+  hama_code: 48
+  name: Rosa pastel
+'#56bdc3':
+  hama_code: 49
+  name: Azul Celeste
+'#f2ae27':
+  hama_code: 60
+  name: Marron Winnie The Poh
+'#e1c592':
+  hama_code: 61
+  name: Oro
+'#a1aaad':
+  hama_code: 62
+  name: Plata
+'#b0a27b':
+  hama_code: 63
+  name: Bronce
+'#dadddc':
+  hama_code: 64
+  name: Perla
+'#a0b6bd':
+  hama_code: 70
+  name: Gris claro
+'#475055':
+  hama_code: 71
+  name: Gris oscuro
+'#BC9371':
+  hama_code: 75
+  name: Canela
+'#A1552D':
+  hama_code: 76
+  name: Turron
