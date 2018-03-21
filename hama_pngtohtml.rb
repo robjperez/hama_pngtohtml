@@ -33,7 +33,7 @@ if !ARGV[1].nil? && File.exists?(palette_alternative_file)
   palette_alternative = YAML::load_file(palette_alternative_file)
 end
 
-img = Magick::Image::read(image_file).first
+img = Magick::Image::read(image_file).first.flop
 row = 0
 puts "<html><body><table><tr>"
 
